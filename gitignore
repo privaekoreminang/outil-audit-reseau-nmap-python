@@ -1,0 +1,23 @@
+# Bytecode Python compilé (généré automatiquement à l'exécution)
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Base de données générée par l'outil (résultats de scans locaux)
+script_scan.db
+
+# Rapports PDF générés (spécifiques à chaque exécution, pas du code source)
+rapport_scan_*.pdf
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Configuration IDE
+.vscode/
+.idea/
