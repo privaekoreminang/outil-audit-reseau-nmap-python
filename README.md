@@ -81,4 +81,4 @@ Hôte: 192.168.1.10    État: up
 ## Auteur
 
 **Priva EKORE MINANG** — Étudiant en Réseaux & Cybersécurité, INPTIC (Libreville, Gabon)
-[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/privaekoreminang)
+[LinkedIn](https://www.linkedin.com/in/priva-ekore-minang-023107420?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/privaekoreminang)
