@@ -70,7 +70,7 @@ Hôte: 192.168.1.10    État: up
 
 ## Limites et pistes d'amélioration
 
-- Le script NSE est actuellement fixé à `vuln` — pourrait être rendu configurable en argument CLI
+- Le script NSE est actuellement fixé à `vuln`, il pourrait être rendu configurable en argument CLI
 - Pas de gestion de l'authentification pour des scans nécessitant des privilèges élevés
 - Le rapport PDF pourrait intégrer des graphiques de synthèse (ports ouverts par service, criticité des vulnérabilités)
 
